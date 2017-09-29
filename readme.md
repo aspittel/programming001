@@ -63,3 +63,14 @@ alert('Hello, world!')
 Congrats! You just wrote your second "Hello, world!" app!
 
 ## Questions
+
+## Next Steps
+- [CodeAcademy](https://www.codecademy.com/)
+    * I would recommend HTML, CSS, Python, or Ruby here!
+_ [Django Girls](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial)
+- [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+
+## Reach Out!
+- [Github](https://github.com/aspittel)
+- [Twitter](https://twitter.com/ASpittel)
+- https://aspittel.github.io
