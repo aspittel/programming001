@@ -46,7 +46,7 @@ In the `HTML` window, write:
 ```
 Whenever programmers learn a new programming language or technology, the tradition is to start with a Hello World! Congrats on your first program! You can see it render on the webpage below the code!
 
-Try changing the h1's to `<p>` or `<h2>`. What happens? How about changing the inside of the tags to say `Hello, <your name here>!`? 
+Try changing the `<h1>`'s to `<p>` or `<h2>`. What happens? How about changing the inside of the tags to say `Hello, <your name here>!`? 
 
 Let's try styling our component now! In the `css` tab type out:
 ```css
