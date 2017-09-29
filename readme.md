@@ -15,7 +15,7 @@ When we write programs, we are writing instructions that the computer will follo
 Programming, at its core, is taking a big problem and breaking it into smaller and smaller problems until they  are small enough that we can tell the computer to solve that problem.
 
 ## Where can you see programs in use?
-Anywhere! From your operating system on your computer through complex websites, all are written using code! Older (and newer!) cell phones, fancy coffee machines, self driving cars, and most TVs use code to run in addition to your desktop or laptop computer.
+Everywhere! From your operating system on your computer through complex websites, all are written using code! Older (and newer!) cell phones, fancy coffee machines, self driving cars, Facebook, Amazon, an ATM, the Lyft App, metro card reloaders, supermarket scanners, and most TVs use code to run in addition to your desktop or laptop computer.
 
 ## What are programming languages?
 Computers can't understand natural language by default, though they are getting closer and closer to being able to!
@@ -24,7 +24,7 @@ At their root, computers run on a series of microscopic on and off switches, and
 
 Thankfully, a lot of really smart people before our time thought of a way that we can talk to our computers without zeros and ones. Instead, we use programming languages which can be interpreted by our computer, similar to how language interpreters can translate Spanish to English or even English to sign language. These look a lot more like English than binary, but they still have a lot more symbols and fewer ways of doing things than natural language. 
 
-There are **tons** of programming languages out there, similar to how there are lots of languages spoken around the world. Some, like Assembly, C, or Bash are very low level and don't really resemble how we speak. Others, like Python and Ruby closely resemble human language. There are trade offs between performance and ease of use, but when you learn how to code I would highly recommend one that is closer to normal language!
+There are **tons** of programming languages out there, similar to how there are lots of languages spoken around the world. Some, like Assembly, C, or Bash are very low level and don't really resemble how we speak. Others, like Python and Ruby closely resemble human language. These languages are used for different tasks, for example HTML, CSS, and JavaScript are used to write websites whereas C is used to write your operating system. These have evolved a lot over time -- old programmers used to have to use punch cards and feed them to the computer instead of typing out code on their computers! There are trade offs between performance and ease of use, but when you learn how to code I would highly recommend one that is closer to normal language!
 
 ## Putting it together: code in practice
 
